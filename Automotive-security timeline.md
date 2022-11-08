@@ -1,4 +1,4 @@
-# Vulnerabilities, cyberーattacks, and reverse engineering
+# Vulnerabilities, cyber-attacks, and reverse engineering
 - **_April 2014, "'CAN message analysis & its injection for Ford Escape", Ford._**
     - References: [[Paper]](https://ioactive.com/pdfs/IOActive_Adventures_in_Automotive_Networks_and_Control_Units.pdf "Paper")
 - **_April 2014, "'CAN message analysis & its injection for Toyota Prius", Toyota._**
