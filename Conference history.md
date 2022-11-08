@@ -1,5 +1,12 @@
 
 # Papers for cyber-attack in automotive field
+- **_Feb. 2021, "WIP: Deployability Improvement, Stealthiness User Study, and Safety Impact Assessment on Real Vehicle for Dirty Road Patch Attack", Automotive and Autonomous Vehicle Security (AutoSec) Workshop 2021._**
+    - References: [[paper]](https://www.ndss-symposium.org/wp-content/uploads/autosec2021_230_paper.pdf "paper")
+
+- **_Feb. 2021, "Impact of Stealthy Attacks on Autonomous Robotic Vehicle Missions", Automotive and Autonomous Vehicle Security (AutoSec) Workshop 2021._**
+    - References: [[paper]](https://www.ndss-symposium.org/wp-content/uploads/autosec2021_23014_paper.pdf "paper")
+- **_Feb. 2021, "Attacking Tesla Model X’s Autopilot Using Compromised Advertisement", Automotive and Autonomous Vehicle Security (AutoSec) Workshop 2021._**
+    - References: [[paper]](https://www.ndss-symposium.org/wp-content/uploads/autosec2021_23004_paper.pdf "paper"), [[demo]](https://www.youtube.com/watch?v=-E0t_s6bT_4 "demo")
 - **_Feb. 2021, "WeepingCAN: A Stealthy CAN Bus-off Attack", Automotive and Autonomous Vehicle Security (AutoSec) Workshop 2021._**
     - References: [[paper]](https://www.ndss-symposium.org/wp-content/uploads/autosec2021_23002_paper.pdf "paper")
 - **_Feb. 2021, "Sequential Attacks on Kalman Filter-Based Forward Collision Warning Systems", Automotive and Autonomous Vehicle Security (AutoSec) Workshop 2021._**
